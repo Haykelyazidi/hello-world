@@ -1,16 +1,13 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-<<<<<<< HEAD
-    <p>hello from haykel.</p>
+    <p>welcom</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-=======
-    <p>Hello from haykel yazidi in th seon pipeline</p>
+    <p>test</p>
     <hr>
->>>>>>> origin
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="haykel" name="email" id="email" required>
@@ -23,7 +20,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
-=======
+
     <input type="password" placeholder="haykel" name="psw" id="psw" required>
  <hr>
     <label for="psw-repeat"><b>Repeat Password</b></label>
